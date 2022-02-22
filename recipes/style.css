@@ -1,0 +1,22 @@
+h1 {
+    color: Purple;
+    font-weight: bold;
+    text-align: center;
+}
+
+.list {
+    background-color:grey;
+    color:white;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h3,
+h4 {
+    Color: Red;
+}

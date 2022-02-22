@@ -1,0 +1,11 @@
+.list {
+    background-color:grey;
+    color:white;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
